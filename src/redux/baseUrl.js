@@ -1,0 +1,1 @@
+export const baseUrl = 'http://earthling.studio:9969';
